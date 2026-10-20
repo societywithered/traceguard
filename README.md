@@ -8,12 +8,7 @@ Records function run times and errors.
 pip install -e ".[dev]"# traceguard
 
 
-Use
-
-          
-            
-            
-          
+#Use                               
           from traceguard import TraceGuard
 
 trace = TraceGuard()
